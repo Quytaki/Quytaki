@@ -30,6 +30,22 @@ Here are some ideas to get you started:
 
 <br/>
 
+<!-- Social links -->
+<p align="center">
+  <a href="https://facebook.com/quytisnotwibu" target="_blank" rel="noopener noreferrer" style="margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30" height="30" />
+  </a>
+  <a href="[https://discord.gg/qkdqgUuq]" target="_blank" rel="noopener noreferrer" style="margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="30" height="30" />
+  </a>
+  <a href="[https://instagram.com/quyt_ted]" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30" />
+  </a>
+</p>
+
+<br/>
+
+<!-- Copy
 <!-- Copy-paste in your Readme.md file -->
 
 [![Dashboard stats of @Quytaki](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87664049&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87664049)
