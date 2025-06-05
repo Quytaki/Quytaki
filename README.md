@@ -51,3 +51,30 @@ Here are some ideas to get you started:
       <path d="M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a3.999 3.999 0 1 1 0-7.998 3.999 3.999 0 0 1 0 7.998z"/>
       <circle cx="18.406" cy="5.594" r="1.44"/>
     </svg>
+  </a>
+</p>
+
+<br/>
+
+<!-- Copy-paste in your Readme.md file -->
+
+[![Dashboard stats of @Quytaki](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87664049&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87664049)
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quytaki/Quytaki/main/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quytaki/Quytaki/main/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Quytaki/Quytaki/main/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
+
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Quytaki/count.svg"/>
+  </div> 
+</p>
