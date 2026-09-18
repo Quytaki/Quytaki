@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/Quytaki/count.svg"/>
+    ![](https://github-visitor-counter-tau.vercel.app/api?username=quytaki&displayMode=topCountries)
   </div> 
 </p>
