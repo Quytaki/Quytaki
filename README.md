@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 🌱 My name is Tuan Nguyen (Quytaki), I'm from VN, welcome to my GitHub home page
-- ⚡ I know HTML
-- 😄 And a little bit of CSS, JavaScript, ReactJS, Python, PHP, Kotlin, C#.net, etc.
+- 🌱 My name is Tuan Nguyen (Quytaki), I'm from VietNam, welcome to my GitHub home page
+- ⚡ I wanna sleep (zzz)
+- 😄 And I know a little bit of CSS, JavaScript, ReactJS, Python, PHP, Kotlin, C#.net, etc.
 - 💖 Love the beautiful code and photos
 - 🔥 One is never too old to learn.
 
