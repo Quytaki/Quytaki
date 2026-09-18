@@ -56,11 +56,3 @@ Here are some ideas to get you started:
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Quytaki/Quytaki/main/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
-
-
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    [![(https://github-visitor-counter-tau.vercel.app/api?username=quytaki&displayMode=topCountries)](https://github-visitor-counter-tau.vercel.app/api?username=quytaki&displayMode=topCountries)]
-  </div> 
-</p>
